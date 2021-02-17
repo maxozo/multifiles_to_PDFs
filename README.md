@@ -1,0 +1,1 @@
+This repository contains functions to combine multiple pdfs or jpgs in a ingle file that can be easily used by the pipeline and file structuring.
